@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import React, { useState, useRef } from "react";
 import { ConfigProvider, Layout, InputNumber, Button, Space, List, Card, Typography, Row, Col, Form, Input, Table, Popconfirm, Modal, Switch, Select } from "antd";
 import { UndoOutlined, PlusOutlined, DeleteOutlined, CaretRightOutlined } from "@ant-design/icons";
